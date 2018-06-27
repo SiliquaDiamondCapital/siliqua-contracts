@@ -6,7 +6,7 @@ Make sure you have nodejs installed.
 1. Then run `npm install`
 2. Run `npm run test` (this will start ganache-cli & run the truffle tests)
 
-![A function overview of the basket contract](https://github.com/SiliquaDiamondCapital/siliqua-contracts/blob/master/images/smart_contract.png)
+![A function overview of the basket contract](https://raw.githubusercontent.com/SiliquaDiamondCapital/siliqua-contracts/master/images/siliqua_contract.png)
 
 ### Diamond properties
 The storage of information on a registered asset is done in a JSON file of which the mediaUri is registered in the contract. Examples of json files to describe a diamond or basket can be found in the examples folder.
